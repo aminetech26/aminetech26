@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Backend Development**
 
-- 👯 I’m looking to collaborate on **Mobile (Flutter-related) projects**
+- 👯 I’m looking to collaborate on **Mobile Apps (Flutter-related) projects**
 
 - 👨‍💻 All of my projects are available at [amine-tech.vercel.app](amine-tech.vercel.app)
 
