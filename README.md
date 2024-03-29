@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Mobile Apps (Flutter-related) projects**
 
-- 👨‍💻 All of my projects are available at [amine-tech.vercel.app](amine-tech.vercel.app)
+- 👨‍💻 All of my projects are available at [amine-tech.vercel.app](https://amine-tech.vercel.app/)
 
 - 💬 Ask me about **Flutter**
 
